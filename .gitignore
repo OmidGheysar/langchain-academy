@@ -219,3 +219,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+
+
+
+.ipynb_checkpoints/
+*.pkl
+*.pckl
+.env
+.env.*
+.vscode/
