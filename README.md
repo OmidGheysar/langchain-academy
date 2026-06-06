@@ -88,7 +88,7 @@ langgraph dev
 You should see the following output:
 ```
 - 🚀 API: http://127.0.0.1:2024
-- 🎨 Studio UI: https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1:2024
+- 🎨 Studio UI: https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1 :2024
 - 📚 API Docs: http://127.0.0.1:2024/docs
 ```
 
